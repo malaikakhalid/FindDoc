@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/texture"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:textFontWeight="500"
+        android:paddingLeft="70px"
+        android:paddingRight="70px"
+        android:background="@drawable/round_text"
+        android:shadowRadius="20"
+        android:paddingTop="20px"
+        android:paddingBottom="20px"
+        android:text="TinDoc"
+        android:textColor="#d10048"
+        android:textSize="100px"
+        android:textStyle="bold"
+        android:alpha="0.9"
+        android:letterSpacing="0.2"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="235dp"
+        android:background="@drawable/button"
+        android:textSize="50px"
+        android:text="Get Started"
+        android:letterSpacing="0.3"
+        android:textStyle="bold"
+        android:textColor="#002699"
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339826369547",
+    "firebase_url": "https://tindoc-b65a4.firebaseio.com",
+    "project_id": "tindoc-b65a4",
+    "storage_bucket": "tindoc-b65a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339826369547:android:d3f020bf667ba18590930e",
+        "android_client_info": {
+          "package_name": "com.example.tindoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339826369547-8bp50bekop1p27qr75mg4nirc6gjddd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tindoc",
+            "certificate_hash": "19534c28452f76772634033cee048d0971243630"
+          }
+        },
+        {
+          "client_id": "339826369547-b5fm2kgvbjuoi4l6r8l95m126tkp6v5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpXJPPnp01zC2nDAojhYhuicjDd8E3zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339826369547-b5fm2kgvbjuoi4l6r8l95m126tkp6v5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
